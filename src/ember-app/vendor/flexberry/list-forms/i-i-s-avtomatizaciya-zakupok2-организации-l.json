@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-zakupok2-организации-e",
+  "editForm": "i-i-s-avtomatizaciya-zakupok2-организации-e",
+  "external": false,
+  "caption": "Организации",
+  "name": "IISAvtomatizaciya_zakupok2ОрганизацииL",
+  "className": "ОрганизацииL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-zakupok2-организации",
+      "modelProjection": "ОрганизацииL"
+    }
+  ]
+}

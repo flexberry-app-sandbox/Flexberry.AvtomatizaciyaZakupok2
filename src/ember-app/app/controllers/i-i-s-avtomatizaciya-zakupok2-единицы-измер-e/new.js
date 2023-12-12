@@ -1,0 +1,4 @@
+import IISAvtomatizaciya_zakupok2ЕдиницыИзмерEController from '../i-i-s-avtomatizaciya-zakupok2-единицы-измер-e';
+
+var IISAvtomatizaciya_zakupok2ЕдиницыИзмерENewController = IISAvtomatizaciya_zakupok2ЕдиницыИзмерEController;
+export default IISAvtomatizaciya_zakupok2ЕдиницыИзмерENewController;

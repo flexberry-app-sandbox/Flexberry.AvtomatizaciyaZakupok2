@@ -1,0 +1,1 @@
+docker-compose -p avtomatizaciya_zakupok2-java up -d

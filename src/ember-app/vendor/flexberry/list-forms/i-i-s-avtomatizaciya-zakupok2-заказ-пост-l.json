@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-zakupok2-заказ-пост-e",
+  "editForm": "i-i-s-avtomatizaciya-zakupok2-заказ-пост-e",
+  "external": false,
+  "caption": "Заказ пост",
+  "name": "IISAvtomatizaciya_zakupok2ЗаказПостL",
+  "className": "ЗаказПостL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-zakupok2-заказ-пост",
+      "modelProjection": "ЗаказПостL"
+    }
+  ]
+}
